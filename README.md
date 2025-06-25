@@ -6,20 +6,16 @@ A simple command-line expense tracking application written in Python. This is a 
 ⚠️ Important Notice
 While this application can be used out of the box, it is highly recommended to adapt it to your personal needs. The current implementation is basic and may not cover all use cases or edge scenarios you might encounter in real-world usage.
 
-Quick Start
-bash
-# Clone the repository
-git clone https://github.com/yourusername/personal-expense-tracker.git
-cd personal-expense-tracker
-
 # Run the application
-python3 Budgeting.py
+.py file
+
 Features
 ✅ Add new expenses with date, category, and amount
 ✅ View all recorded expenses
 ✅ Remove specific expenses
 ✅ Simple command-line interface
 ✅ In-memory storage (data is lost when program exits)
+
 Limitations & Areas for Improvement
 No data persistence: All data is lost when the program closes
 Basic input validation: Limited error handling for invalid inputs
@@ -34,18 +30,7 @@ Exact match required: Expense removal requires precise matching of all fields
 Installation & Usage
 Prerequisites
 Python 3.6 or higher
-Running the Application
-Clone this repository:
-bash
-git clone https://github.com/yourusername/personal-expense-tracker.git
-cd personal-expense-tracker
-Run the program:
-bash
-python3 Budgeting.py
-or
 
-bash
-python Budgeting.py
 Usage Examples
 Adding an Expense
 Add Expense
