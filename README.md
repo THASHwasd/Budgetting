@@ -91,12 +91,13 @@ def get_total_by_category():
 Contributing
 Feel free to fork this repository and submit pull requests for improvements. Some areas that would benefit from enhancement:
 
-Data persistence (CSV, JSON, or database)
-Better input validation and error handling
-Expense categorization and filtering
-Data visualization and reporting
-Configuration file support
-Unit tests
+X Data persistence (CSV, JSON, or database)
+X Better input validation and error handling
+X Expense categorization and filtering
+X Data visualization and reporting
+X Configuration file support
+X Unit tests
+
 License
 This project is open source. Feel free to use and modify according to your needs.
 
