@@ -16,18 +16,6 @@ Features
 ✅ Simple command-line interface
 ✅ In-memory storage (data is lost when program exits)
 
-Limitations & Areas for Improvement
-No data persistence: All data is lost when the program closes
-Basic input validation: Limited error handling for invalid inputs
-Simple expense removal: Requires exact matching of all fields
-No data analysis: No spending summaries, categories breakdown, or reporting
-No data export: Cannot save expenses to file formats
-Issues & Known Bugs
-Typo in interface: "Catergory" instead of "Category" in remove expense prompt
-Logic issue: Remove function may not behave as expected in all cases
-No input validation: Program may crash on invalid number inputs
-Exact match required: Expense removal requires precise matching of all fields
-Installation & Usage
 Prerequisites
 Python 3.6 or higher
 
